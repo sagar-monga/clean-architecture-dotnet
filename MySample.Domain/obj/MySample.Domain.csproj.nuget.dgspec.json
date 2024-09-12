@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BitbucketProjects\\service\\pocs\\BE_pocs\\Clean-architecture-sample\\MySample.API\\MySample.Domain\\MySample.Domain.csproj": {}
+    "D:\\BitbucketProjects\\service\\pocs\\Clean-architecture-sample\\MySample.API\\MySample.Domain\\MySample.Domain.csproj": {}
   },
   "projects": {
-    "D:\\BitbucketProjects\\service\\pocs\\BE_pocs\\Clean-architecture-sample\\MySample.API\\MySample.Domain\\MySample.Domain.csproj": {
+    "D:\\BitbucketProjects\\service\\pocs\\Clean-architecture-sample\\MySample.API\\MySample.Domain\\MySample.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BitbucketProjects\\service\\pocs\\BE_pocs\\Clean-architecture-sample\\MySample.API\\MySample.Domain\\MySample.Domain.csproj",
+        "projectUniqueName": "D:\\BitbucketProjects\\service\\pocs\\Clean-architecture-sample\\MySample.API\\MySample.Domain\\MySample.Domain.csproj",
         "projectName": "MySample.Domain",
-        "projectPath": "D:\\BitbucketProjects\\service\\pocs\\BE_pocs\\Clean-architecture-sample\\MySample.API\\MySample.Domain\\MySample.Domain.csproj",
+        "projectPath": "D:\\BitbucketProjects\\service\\pocs\\Clean-architecture-sample\\MySample.API\\MySample.Domain\\MySample.Domain.csproj",
         "packagesPath": "C:\\Users\\sagar.monga\\.nuget\\packages\\",
-        "outputPath": "D:\\BitbucketProjects\\service\\pocs\\BE_pocs\\Clean-architecture-sample\\MySample.API\\MySample.Domain\\obj\\",
+        "outputPath": "D:\\BitbucketProjects\\service\\pocs\\Clean-architecture-sample\\MySample.API\\MySample.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -49,6 +49,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

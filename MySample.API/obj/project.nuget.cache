@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "19GoCFHsf48=",
+  "dgSpecHash": "ZrkU8ZxnAvg=",
   "success": true,
-  "projectFilePath": "D:\\BitbucketProjects\\service\\pocs\\BE_pocs\\Clean-architecture-sample\\MySample.API\\MySample.API\\MySample.API.csproj",
+  "projectFilePath": "D:\\BitbucketProjects\\service\\pocs\\Clean-architecture-sample\\MySample.API\\MySample.API\\MySample.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sagar.monga\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\sagar.monga\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
     "C:\\Users\\sagar.monga\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\sagar.monga\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\sagar.monga\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
